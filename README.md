@@ -1,6 +1,6 @@
 
 <h1><p align="center">Hello, I'm Alae Bouhmala <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
-<h3 align="center">A passionate FUll Stack developer from Morocco</h3>
+<h3 align="center">A PASSIONATE FULL STACK DEVELOPER FROM MOROCCO</h3>
 
 <p align="center" ><img 
  src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="100%"/></p>
@@ -8,14 +8,12 @@
 
 - 🔭 I’m currently working on [Twins](https://twinsgroupe.com/main-home-2/)
 
-- 🌱 I’m currently learning **.NET/Angular**
+- 🌱 I’m currently learning **.NET/Angular and Node.js/Vue.js**
  <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👯 I’m looking to collaborate on **Full Stack Laravel/Vue,js Projects**
 
 - 🤝 I’m looking for help with **.NET**
-
-- 📝 I regularly write articles on [https://rocoderes.com/](https://rocoderes.com/)
 
 - 💬 Ask me about **Full Stack Technologies**
 
