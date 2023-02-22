@@ -1,21 +1,27 @@
 
 <h1><p align="center">Hello, I'm Alae Bouhmala <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
-<h3 align="center">A PASSIONATE FULL STACK DEVELOPER FROM MOROCCO</h3>
+<h3 align="center">
+
+My name is Alae Bouhmala and I'm a BackEnd developer who loves to work with modern technologies. My goal is to provide value to the large community of designers and developers.
+
+I started my journey as a self-taught web developer right out of High School when I first got fascinated by the web development world and wanted to build amazing experiences for the web. Ever since I have fallen in love with web development and spend most of my days taking my skills to the next-level.
+
+</h3>
 
 <p align="center" ><img 
  src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="100%"/></p>
 
 
-- 🔭 I’m currently working on [Twins](https://twinsgroupe.com/main-home-2/)
+<!--- - 🔭 I’m currently working on [Twins](https://twinsgroupe.com/main-home-2/) --->
 
-- 🌱 I’m currently learning **.NET/Angular and Node.js/Vue.js**
+- 🌱 I’m currently learning **.NET/Angular / Node.js/Vue.js**
  <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👯 I’m looking to collaborate on **Full Stack Laravel/Vue,js Projects**
+- 👯 I’m looking to collaborate on **.NET Core Or Node.js Projects**
 
-- 🤝 I’m looking for help with **.NET**
+- 🤝 I’m looking for help with **.NET Core / Node.js**
 
-- 💬 Ask me about **Full Stack Technologies**
+- 💬 Ask me about **BackEnd Technologies**
 
 - 📫 How to reach me **alaebouhmala@outlook.com**
 
